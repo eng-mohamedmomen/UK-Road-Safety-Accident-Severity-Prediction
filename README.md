@@ -21,7 +21,7 @@ This project is part of the **Certified Data Science Professional (CDSP)** progr
 | Resource | Link |
 |---|---|
 | **GitHub Repo** | [UK-Road-Safety-Accident-Severity-Prediction](https://github.com/eng-mohamedmomen/UK-Road-Safety-Accident-Severity-Prediction) |
-| **LinkedIn Post** | _[add link here after posting]_ |
+| **LinkedIn Post** | _[Post Link](https://www.linkedin.com/posts/mohamed-momen-010986277_github-eng-mohamedmomenuk-road-safety-accident-severity-prediction-share-7477765782823862272-jY5D/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOZDIwBBxwLSjfKQzO7ZeWdcoHLw-Jsp1A)_ |
 | **Dataset (Kaggle)** | UK Road Safety — STATS19 Accident Data (2005–2017) |
 | **Live Web App** | It keep changes (Temporary Link) |
 | **Epsilon AI Academy Main Repo** | [Epsilon AI Academy](https://github.com/Epsilon-AI) |
